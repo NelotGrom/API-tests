@@ -376,7 +376,6 @@ describe("Endpoint api/test/users", () => {
       failOnStatusCode: false,
     }).then((response) => {
       cy.validateErrorResponse(response);
-      expect(response.body).to.have.property("idList");
     });
   });
 

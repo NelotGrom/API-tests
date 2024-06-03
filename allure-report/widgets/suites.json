@@ -1,0 +1,1 @@
+{"total":3,"items":[{"uid":"426eb01609cec3c986124b2cc6dd35b2","name":"Endpoint api/test/users","statistic":{"failed":11,"broken":0,"skipped":0,"passed":6,"unknown":0,"total":17}},{"uid":"59e96a1e54e533e6623b72cd8dbe3617","name":"Endpoint api/test/user/{id}","statistic":{"failed":3,"broken":0,"skipped":0,"passed":14,"unknown":0,"total":17}}]}
